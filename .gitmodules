@@ -1,0 +1,66 @@
+[submodule "mods/MinetestAmbience"]
+	path = mods/MinetestAmbience
+	url = https://github.com/PilzAdam/MinetestAmbience
+[submodule "mods/antiguest"]
+	path = mods/antiguest
+	url = https://github.com/HybridDog/antiguest
+[submodule "mods/minetest-kaeza_misc"]
+	path = mods/minetest-kaeza_misc
+	url = https://github.com/kaeza/minetest-kaeza_misc
+[submodule "mods/builtin_item"]
+	path = mods/builtin_item
+	url = https://github.com/PilzAdam/builtin_item
+[submodule "mods/carts"]
+	path = mods/carts
+	url = https://github.com/PilzAdam/carts
+[submodule "mods/farming_plus"]
+	path = mods/farming_plus
+	url = https://github.com/PilzAdam/farming_plus
+[submodule "mods/gemalde"]
+	path = mods/gemalde
+	url = https://github.com/CasimirKaPazi/gemalde
+[submodule "mods/hud"]
+	path = mods/hud
+	url = https://github.com/BlockMen/hud
+[submodule "mods/memorandum"]
+	path = mods/memorandum
+	url = https://github.com/Mossmanikin/memorandum
+[submodule "mods/minetest-mod-mesecons"]
+	path = mods/minetest-mod-mesecons
+	url = https://github.com/Jeija/minetest-mod-mesecons
+[submodule "mods/minetest-3d_armor"]
+	path = mods/minetest-3d_armor
+	url = https://github.com/stujones11/minetest-3d_armor
+[submodule "mods/pipeworks"]
+	path = mods/pipeworks
+	url = https://github.com/VanessaE/pipeworks
+[submodule "mods/player_textures"]
+	path = mods/player_textures
+	url = https://github.com/PilzAdam/player_textures
+[submodule "mods/potions"]
+	path = mods/potions
+	url = https://github.com/Traxie21/potions
+[submodule "mods/potionspack"]
+	path = mods/potionspack
+	url = https://github.com/Traxie21/potionspack
+[submodule "mods/minetest-mod-snow"]
+	path = mods/minetest-mod-snow
+	url = https://github.com/Splizard/minetest-mod-snow
+[submodule "mods/throwing"]
+	path = mods/throwing
+	url = https://github.com/PilzAdam/throwing
+[submodule "mods/Minetest-WorldEdit"]
+	path = mods/Minetest-WorldEdit
+	url = https://github.com/Uberi/Minetest-WorldEdit
+[submodule "mods/minetest-craft_guide"]
+	path = mods/minetest-craft_guide
+	url = https://github.com/cornernote/minetest-craft_guide
+[submodule "mods/minetest-inventory_plus"]
+	path = mods/minetest-inventory_plus
+	url = https://github.com/cornernote/minetest-inventory_plus
+[submodule "mods/locks"]
+	path = mods/locks
+	url = https://github.com/Sokomine/locks
+[submodule "mods/connected_chests"]
+	path = mods/connected_chests
+	url = https://github.com/HybridDog/connected_chests
