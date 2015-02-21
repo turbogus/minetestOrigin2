@@ -64,3 +64,9 @@
 [submodule "mods/connected_chests"]
 	path = mods/connected_chests
 	url = https://github.com/HybridDog/connected_chests
+[submodule "animals_modpack"]
+	path = animals_modpack
+	url = https://github.com/sapier/animals_modpack
+[submodule "mods/animals_modpack"]
+	path = mods/animals_modpack
+	url = https://github.com/sapier/animals_modpack

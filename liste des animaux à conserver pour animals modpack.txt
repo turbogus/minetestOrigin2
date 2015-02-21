@@ -1,0 +1,16 @@
+Voici les dossiers à conserver dans le modpack animals sur le serveur (les autres dossiers peuvent 
+être supprimés lors d'une mise à jour):
+
+- animal_clownfish
+- animal_fish_blue_white
+- animal_gull
+- animalmaterial
+- barn
+- cooking
+- mob_archer
+- mobf
+- mobf_settings
+- mob_gard
+- mob_npc
+- mob_shark
+- trap
